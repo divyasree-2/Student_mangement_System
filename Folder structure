@@ -1,0 +1,11 @@
+student-management-system/
+│
+├── README.md
+├── .gitignore
+├── LICENSE
+├── src/
+│   └── Main.java
+├── screenshots/
+│   └── student-management.png
+└── data/
+    └── students.txt
